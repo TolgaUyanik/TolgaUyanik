@@ -1,10 +1,6 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZrdmFoc21uMjFxcGFpZ2l3d2RqamV2aHE3YWU4OXZpcmpjcGM5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" />
 </p>
-
-# Hi
-Welcome to my profile
-
 <!--
 **TolgaUyanik/TolgaUyanik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
